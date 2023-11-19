@@ -1937,7 +1937,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .navbar-link {
-    font-size: 15px; /* Ajusta el tamaño de fuente según lo que desees para teléfono móvil */
+    font-size: 10px; /* Ajusta el tamaño de fuente según lo que desees para teléfono móvil */
     padding: 10px 10px; /* Ajusta el espaciado de acuerdo a tus preferencias */
   }
 }
